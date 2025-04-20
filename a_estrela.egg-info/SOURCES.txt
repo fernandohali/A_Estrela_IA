@@ -1,0 +1,10 @@
+README.md
+setup.py
+./backend/__init__.py
+./backend/algoritmo.py
+./backend/main.py
+./backend/utils.py
+a_estrela.egg-info/PKG-INFO
+a_estrela.egg-info/SOURCES.txt
+a_estrela.egg-info/dependency_links.txt
+a_estrela.egg-info/top_level.txt
